@@ -1,7 +1,5 @@
-function contador() {
-    var numeros = [11,5,6];
-
-    
+function contador(n1,n2) {
+    return n1 + n2;
 }
 
-console.log(contador());
+console.log(contador(50,50));
