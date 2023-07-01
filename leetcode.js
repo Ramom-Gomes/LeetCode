@@ -2,4 +2,27 @@ function multiplica(n1, n2) {
     return n1 * n2;
 };
 
-console.log(multiplica(50,100));
+
+function multiplica(n1, n2) {
+    return n1 * n2;
+};
+
+function multiplica(n1, n2) {
+    return n1 * n2;
+};
+
+function multiplica(n1, n2) {
+    return n1 * n2;
+};
+
+function multiplica(n1, n2) {
+    return n1 * n2;
+};
+
+function multiplica(n1, n2) {
+    return n1 * n2;
+};
+
+function multiplica(n1, n2) {
+    return n1 * n2;
+};
